@@ -1,1 +1,2 @@
-print('Hello World 6 - original')
+print('Hello World 6 conflicto')
+
